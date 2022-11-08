@@ -7,6 +7,10 @@
 📒 I'm a accounting technician. </br>
 💻 I study systems analysis and development at FATEC Sorocaba. </br>
 
+### About me
+Brazilian student from Sorocaba, lover of music and cinema.
+<a> I'm student systems analysis and development at Fatec Sorocaba (2/6 semesters). </a>
+
 <br>
 <br>
 <div align="center"> 
