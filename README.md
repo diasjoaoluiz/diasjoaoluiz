@@ -9,7 +9,7 @@
 
 ### About me
 <a>Brazilian student from Sorocaba, lover of music and cinema.</a><br>
-<a> I'm student systems analysis and development at Fatec Sorocaba (2/6 semesters).</a><br>
+<a> I'm student systems analysis and development at Fatec Sorocaba (3/6 semesters).</a><br>
 <a>I'm doing an internship in Ti Master Tecnologia, working in the financial area and with computer maintenance.</a><br>
 
 ### Main skills:
