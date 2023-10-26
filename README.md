@@ -5,7 +5,7 @@
 <br>
 😃 My name is João Luiz da Costa Dias and I'm 19 years old. </br>
 📒 I'm a accounting technician. </br>
-💻 I study systems analysis and development at FATEC Sorocaba. </br><br>
+💻 I study systems analysis and development at UNISO Sorocaba. </br><br>
 
 ### About me
 <a>Brazilian student from Sorocaba, lover of music and cinema.</a><br>
